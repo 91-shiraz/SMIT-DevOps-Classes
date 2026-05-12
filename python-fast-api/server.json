@@ -1,0 +1,91 @@
+{
+    "server1": {
+        "id": "1",
+        "name": "FastAPI Server",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8001,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server2": {
+        "id": "2",
+        "name": "FastAPI Server 2",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8002,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server3": {
+        "id": "3",
+        "name": "FastAPI Server 3",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8003,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server4": {
+        "id": "4",
+        "name": "FastAPI Server 4",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8004,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server5": {
+        "id": "5",
+        "name": "FastAPI Server 5",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8005,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server6": {
+        "id": "6",
+        "name": "FastAPI Server 6",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8006,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server7": {
+        "id": "7",
+        "name": "FastAPI Server 7",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8007,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "server8": {
+        "id": "8",
+        "name": "FastAPI Server 8",
+        "version": "0.1.0",
+        "description": "A FastAPI server for the project",
+        "port": 8008,
+        "ip": "127.0.0.1",
+        "status": "running",
+        "users": ["Shiraz", "Salman", "Ali"]
+    },
+    "database": {
+        "id": "1",
+        "name": "FastAPI Database",
+        "version": "0.1.0",
+        "description": "A FastAPI database for the project",
+        "port": 8009,
+        "ip": "127.0.0.1",
+        "status": "running"
+    }
+}
