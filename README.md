@@ -4,6 +4,8 @@ Become a DevOps-aware Backend Engineer → Then Transition into a DevOps / Platf
 
 Git Ignore File Rule:
 
-*/ -> for file
-**/folder_name/ -> for folder (means siblings folders mai child folder ka naam pycache ho toa ignore karde)
+*/ -> for file.  
+
+**/folder_name/ -> for folder (means siblings folders mai child folder ka naam pycache ho toa ignore karde).  
+
 ** -> wild card
